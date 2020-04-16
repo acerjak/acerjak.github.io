@@ -1,0 +1,117 @@
+#name {
+    color:white;
+    font-family:fantasy;
+    font-size: 80px;
+    border: 5px solid black;
+    margin: 10px;
+    width: 525px;
+    padding: 0px;
+}
+#tagline {
+    color:white;
+    font-family: fantasy;
+    font-size: 45px;
+    border: 5px solid black;
+    width: 500px;
+    margin: 10px;
+}
+#lazyDiv {
+    margin-left:25px;
+    margin-right:10px;
+}
+#panda {
+    margin: auto;
+    border: 5px solid white;
+}
+#bio {
+    color:grey;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    height: 100px;
+    width: 585px;
+    border: 5px solid white;
+    margin-left: 25px;
+}
+#btnOne {
+    border: 5px solid purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: violet;
+    color: white;
+}
+body {
+    background-color:rgb(123, 170, 218);
+}
+#favcolors {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 35px;
+    margin: auto;
+}
+#colorlist {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    margin: auto;
+}
+#blue {
+    height: 250px;
+    width: 350px;
+    border: 5px solid white;
+}
+#green {
+    height: 250px;
+    width: 350px;
+    border: 5px solid white;
+}
+#iridescent {
+    height: 250px;
+    width: 350px;
+    border: 5px solid white;
+}
+#number1 {
+    color: blue
+}
+#number2 {
+    color:green;
+}
+#number3 {
+    color: rgb(181, 15, 223)
+}
+#textboxOne {
+    color:rgb(123, 170, 218);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5px dashed royalblue;
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+    text-align: center;
+}
+#btnTwo {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    border: 5px solid rgb(17, 161, 172);
+    margin-left: 38px;
+}
+#tune {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin: auto;
+    font-size: 20px;
+}
+#btnThree {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: orangered;
+    border: 5px solid yellow;
+}
+#link {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#contact {
+    color: purple
+    f
+}
